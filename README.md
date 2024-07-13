@@ -17,7 +17,7 @@ The project is structured as follows:
 ## Tech Stack
 
 - Python (for the programming language)
-- Hugging Face Transformers Library (for the visual question answering model)
+- Hugging Face Transformers Library (for the visual question-answering model)
 - Gradio (for the web application)
 - Hugging Face Spaces (for hosting the gradio application)
 
